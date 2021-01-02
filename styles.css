@@ -99,7 +99,7 @@ section.about p {
 .project {
   display: block;
   width: 100%;
-  background: red;
+  background: rgb(44, 146, 206);
   margin-bottom: 20px;
   height: 200px;
   position: relative;
